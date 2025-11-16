@@ -11,3 +11,6 @@ Nello specifico sono state richieste le seguenti funzionalità:
 - **Dettagli menù**. Dopo aver selezionato il menù, l'utente ne legge i dettagli in una apposita schemata. In tale schermata vi visualizzano gli stessi dati della "lista menù", con un'immagine più grande, una descrizione lunga e la possibilità di acquistare il menù. Non è possibile acquistare un menù se l'utente non ha ancora completato il proprio profilo o se ha un ordine in corso.
 - **Stato consegna**. Dopo aver acquistato un menù, l'utente può visualizzare llo stato di consegna. Questa schermata riposta il menù acquistato, l'orario di consegna e lo stato di consegna (consegnato/in consegna). Se lo stato è "in consegna", l'utente vede su una mappa la posizione finale di consegna, il punto di partenza, e il punto attuale del drone. Se lo stato è "consegnato" l'utente visualizza, su una mappa, solo il punto di partenza e la destinazione. Questa schermata si deve aggiornare ogni 5 secondi.
 - **Salvataggio pagina**. L'applicazione deve ricordarsi quale pagina è stata visualizzata, in caso l'app venga terminata. In questo modo, al riavvio ricarica l'ultima pagina.
+
+# Struttura e progettazione del codice 
+La progettazione interna dell'applicazione è stata svolta e scritta seguendo il pattern MVVM (Model, View, ViewModel).
