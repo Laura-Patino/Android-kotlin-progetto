@@ -1,3 +1,6 @@
+# Mobile Computing Project
+Android application written in Kotlin.
+
 # Progetto "Mangia e Basta" del corso di Mobile Computing
 L'obiettivo del progetto riguarda la creazione di un'applicazione mobile android simile ad applicazioni di delivery come Globo e  Deliveroo. 
 A richiesta del docente l'app deve gestire un utente, il quale può scegliere tra diversi menù nelle sue vicinanze, visualizzare i dettagli dei menù, ordinare e tenere traccia di dove si trova l'ordine e visualizzare il proprio profilo più la cronologia degli ordini. 
