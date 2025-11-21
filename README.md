@@ -30,18 +30,16 @@ Il codice è visualizzabile nella cartella app/src/main/java/com/example/progett
 **Details screen** dettagli di un menù e sezione per effettuare un ordine
 <img width="434" height="877" alt="Screenshot 2025-11-21 215831" src="https://github.com/user-attachments/assets/0cefb54b-f032-4a0d-84cc-fe237796bea2" />
 
-
-<img width="431" height="867" alt="Screenshot 2025-11-21 215754" src="https://github.com/user-attachments/assets/fe6fabc3-a83f-470b-95df-91c03a24321e" />
 **Order Screen** ordine già consegnato
+<img width="431" height="867" alt="Screenshot 2025-11-21 215754" src="https://github.com/user-attachments/assets/fe6fabc3-a83f-470b-95df-91c03a24321e" />
 
-<img width="425" height="874" alt="Screenshot 2025-11-21 220010" src="https://github.com/user-attachments/assets/f7b5d9cf-7f5e-4d93-a7d4-19365d292873" />
 **Order Screen** ordine in fase di consegna (tre icone)
+<img width="425" height="874" alt="Screenshot 2025-11-21 220010" src="https://github.com/user-attachments/assets/f7b5d9cf-7f5e-4d93-a7d4-19365d292873" />
 
-<img width="421" height="872" alt="Screenshot 2025-11-21 215805" src="https://github.com/user-attachments/assets/8ed5f740-c3dc-4389-892b-203c09292406" />
 **Profile Screen** dati utente e dati del ultimo ordine
+<img width="421" height="872" alt="Screenshot 2025-11-21 215805" src="https://github.com/user-attachments/assets/8ed5f740-c3dc-4389-892b-203c09292406" />
 
-<img width="412" height="870" alt="Screenshot 2025-11-21 215907" src="https://github.com/user-attachments/assets/d20e00df-d22c-4c78-bcde-5bd8a2033e2e" />
+
 **Update User info screen** aggiornamento dei dati dell'utente
-
-
-  
+<img width="412" height="870" alt="Screenshot 2025-11-21 215907" src="https://github.com/user-attachments/assets/d20e00df-d22c-4c78-bcde-5bd8a2033e2e" />
+ 
