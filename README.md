@@ -24,11 +24,12 @@ Il codice è visualizzabile nella cartella app/src/main/java/com/example/progett
 - Ui/theme. sono presenti tre file per la personalizzazione dello stile, colori e temi dell'applicazione.
 
 ## Screenshot dell'applicaione 
+**Home Screen** lista dei menù nelle vicinanze.
 <img width="412" height="879" alt="Screenshot 2025-11-21 215820" src="https://github.com/user-attachments/assets/b17ea020-2a69-40c2-8dde-73579c5ca4e3" />
-**Home Screen** lista dei menù nelle vicinanze
 
-<img width="434" height="877" alt="Screenshot 2025-11-21 215831" src="https://github.com/user-attachments/assets/0cefb54b-f032-4a0d-84cc-fe237796bea2" />
 **Details screen** dettagli di un menù e sezione per effettuare un ordine
+<img width="434" height="877" alt="Screenshot 2025-11-21 215831" src="https://github.com/user-attachments/assets/0cefb54b-f032-4a0d-84cc-fe237796bea2" />
+
 
 <img width="431" height="867" alt="Screenshot 2025-11-21 215754" src="https://github.com/user-attachments/assets/fe6fabc3-a83f-470b-95df-91c03a24321e" />
 **Order Screen** ordine già consegnato
