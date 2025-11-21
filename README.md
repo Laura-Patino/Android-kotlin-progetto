@@ -1,4 +1,4 @@
-# Mobile Computing Project
+# Mobile Computing second Project
 Android application written in Kotlin.
 
 # Progetto "Mangia e Basta" del corso di Mobile Computing
