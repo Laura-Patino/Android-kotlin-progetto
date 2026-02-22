@@ -1,5 +1,5 @@
 # Mobile Computing second Project
-Android application written in Kotlin. The project has similar UI and navigation as the !link[React Native project]. 
+Android application written in Kotlin. The project has similar UI and navigation as the React Native project. 
 
 # Progetto "Mangia e Basta" del corso di Mobile Computing
 L'obiettivo del progetto riguarda la creazione di un'applicazione mobile android simile ad applicazioni di delivery come Globo e  Deliveroo. 
